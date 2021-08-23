@@ -1,5 +1,4 @@
 import NewStudentForm from "./components/NewStudentForm";
-import './App.css';
 import React,{useState} from "react";
 import Table from './components/Table';
 
